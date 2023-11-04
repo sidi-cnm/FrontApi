@@ -1,0 +1,18 @@
+[
+    { 
+        
+        "Numero_de_telephone" : 22341215,
+        "Nom":"Sidi" ,
+        "Prénom": "Ebeidy",
+        "Date de naissance":"2023-10-11",
+        "Numero_de_wtsp" : 22341215,
+        "Type_paiement_mobile" : "bankily",
+        "Adresse":"sbeikha" ,
+        "Coordonnées_GPS":[2,3],
+        "Vehiculé":"OUI",
+        "Date_inscription":"2023-10-11",
+        "PDF_preuve_qualifications":"CV.PDF",
+        "Etat_compte(actif/inactif)":"NON"
+
+    }
+]
