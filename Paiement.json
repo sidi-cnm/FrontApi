@@ -1,0 +1,9 @@
+{
+    "ID": 1,
+    "Montant": 500,
+    "Date_Paiement": "2023-11-06",
+    "Methode_paiement": "Bankily",
+    "Preuve_paiement": "recu.png",
+    "Code de confirmation": "ABC123",
+    "ID_Cours": 101
+}
