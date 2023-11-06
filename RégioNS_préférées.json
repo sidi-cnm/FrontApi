@@ -1,0 +1,14 @@
+[
+    {
+        "ID_professeur": 1,
+        "ID_region": 101
+    },
+    {
+        "ID_professeur": 2,
+        "ID_region": 102
+    },
+    {
+        "ID_professeur": 3,
+        "ID_region": 103
+    }
+]
