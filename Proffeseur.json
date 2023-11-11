@@ -1,18 +1,25 @@
 [
-    { 
-        
-        "Numero_de_telephone" : 2234,
-        "Nom":"Sidi" ,
+    {
+        "Numero_de_telephone": 2234,
+        "Nom": "Sidi",
         "Prénom": "Ebeidy",
-        "Date de naissance":"2023-10-11",
-        "Numero_de_wtsp" : 22341215,
-        "Type_paiement_mobile" : "bankily",
-        "Adresse":"sbeikha" ,
-        "Coordonnées_GPS":[2,3],
-        "Vehiculé":"OUI",
-        "Date_inscription":"2023-10-11",
-        "PDF_preuve_qualifications":"CV.PDF",
-        "Etat_compte(actif/inactif)":"NON"
-
+        "Date de naissance": "2023-10-11",
+        "Numero_de_wtsp": 22341215,
+        "Type_paiement_mobile": "bankily",
+        "Adresse": "sbeikha",
+        "Coordonnées_GPS": [2, 3],
+        "Vehiculé": "OUI",
+        "Date_inscription": "2023-10-11",
+        "PDF_preuve_qualifications": "CV.PDF",
+        "Etat_compte(actif/inactif)": "NON",
+        "Matières_enseignées": [1],  
+        "Niveaux_enseignés": [101],  
+        "Regions_preferees": [101],  
+        "Experience_enseignement": 0,  
+        "Certifications_qualifications": "Certificat.pdf"
+        "Photo_NNI": "NNI.jpg",  
+        "Photo_Profil": "Profile.jpg" 
     }
 ]
+
+  
